@@ -1,0 +1,28 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="95" fill="url(#paint0_linear)" stroke="#4F46E5" stroke-width="2" />
+  
+  <!-- Book base -->
+  <path d="M60 65C60 62.2386 62.2386 60 65 60H135C137.761 60 140 62.2386 140 65V135C140 137.761 137.761 140 135 140H65C62.2386 140 60 137.761 60 135V65Z" fill="#FFFFFF" stroke="#4F46E5" stroke-width="3" />
+  
+  <!-- Book pages -->
+  <path d="M65 65H135V135H65V65Z" fill="#F5F3FF" />
+  <path d="M70 75H130M70 90H130M70 105H130M70 120H110" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Moon -->
+  <circle cx="80" cy="90" r="15" fill="#FEF08A" stroke="#A16207" stroke-width="1.5" />
+  <path d="M75 90C75 95.5228 79.4772 100 85 100C85 94.4772 80.5228 90 75 90Z" fill="#A16207" />
+  
+  <!-- Stars -->
+  <path d="M120 70L122 74L126 75L123 78L124 82L120 80L116 82L117 78L114 75L118 74L120 70Z" fill="#FFFFFF" stroke="#4F46E5" stroke-width="1" />
+  <path d="M135 95L137 99L141 100L138 103L139 107L135 105L131 107L132 103L129 100L133 99L135 95Z" fill="#FFFFFF" stroke="#4F46E5" stroke-width="1" />
+  <path d="M105 120L107 124L111 125L108 128L109 132L105 130L101 132L102 128L99 125L103 124L105 120Z" fill="#FFFFFF" stroke="#4F46E5" stroke-width="1" />
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="20" y1="20" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" />
+      <stop offset="1" stop-color="#3730A3" />
+    </linearGradient>
+  </defs>
+</svg>
